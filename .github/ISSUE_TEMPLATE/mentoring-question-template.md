@@ -1,5 +1,5 @@
 ---
-name: Mentoring-Questions
+name: Mentoring-Question-Template
 about: 멘토링 질문 템플릿
 title: ''
 labels: 멘토링-질문
