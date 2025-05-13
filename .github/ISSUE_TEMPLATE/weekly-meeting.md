@@ -1,7 +1,7 @@
 ---
 name: Weekly Meeting Template
 about: 주간 회의 이슈 템플릿입니다.
-title: "[Weekly Meeting] "
+title: "[OO/OO Weekly Meeting] "
 labels: []
 assignees: []
 ---
