@@ -1,3 +1,11 @@
+---
+name: Weekly Meeting Template
+about: 주간 회의 이슈 템플릿입니다.
+title: "[Weekly Meeting] "
+labels: []
+assignees: []
+---
+
 ## 주간 타운홀 발표
 
 **날짜:**
