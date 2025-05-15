@@ -1,5 +1,5 @@
 ---
-name: Trouble-Shooting-Template
+name: Troubleshooting-Log-Template
 about: 트러블슈팅 로그 템플릿
 title: 2025-00-00-troubleshooting-log
 labels: ''
